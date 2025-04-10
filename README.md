@@ -1,2 +1,2 @@
-# workers-bee
- A service platform to hire trusted workers nearby
+# Workers Bee
+This is your complete service platform.
